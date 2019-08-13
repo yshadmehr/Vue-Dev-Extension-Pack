@@ -1,0 +1,52 @@
+{
+    "name": "vue-dev-extension-pack",
+    "displayName": "Vue Dev Extension Pack",
+    "description": "A collection of extensions for working with @Vue/cli in VS Code",
+    "version": "1.0.0",
+    "icon": "logo.png",
+    "license": "https://raw.githubusercontent.com/yshadmehr/Vue-Dev-Extension-Pack/master/LICENSE",
+    "repository": {
+        "url": "https://github.com/yshadmehr/Vue-Dev-Extension-Pack"
+      },
+      "homepage": "https://github.com/yshadmehr/Vue-Dev-Extension-Pack",
+      "bugs": {
+        "url": "https://github.com/yshadmehr/Vue-Dev-Extension-Pack/issues"
+      },
+      "keywords": [
+        "vue",
+        "vuejs",
+        "vue/cli",
+        "cli",
+        "extension pack",
+        "vue extension collection"
+      ],
+    "publisher": "yshadmehr",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "alefragnani.Bookmarks", 
+        "christian-kohler.npm-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.githistory", 
+        "esbenp.prettier-vscode", 
+        "huizhou.githd", 
+        "jcbuisson.vue", 
+        "karanba.npm-helper", 
+        "KnisterPeter.vscode-github", 
+        "mhutchie.git-graph", 
+        "octref.vetur", 
+        "pflannery.vscode-versionlens", 
+        "sdras.vue-vscode-snippets", 
+        "streetsidesoftware.code-spell-checker", 
+        "tombonnike.vscode-status-bar-format-toggle", 
+        "waderyan.gitblame", 
+        "wmaurer.vscode-jumpy", 
+        "xabikos.JavaScriptSnippets",
+        "eamodio.gitlens"
+    ]
+}
